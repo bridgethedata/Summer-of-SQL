@@ -1,3 +1,10 @@
+--Techniques:
+--1. PIVOT and UNPIVOTs
+--2. Case Statements 
+--3. Subqueries for Percentage Totals
+
+
+
 -- Reshape the data so we have 5 rows for each customer, with responses for the Mobile App and Online Interface being in separate fields on the same row
 
 SELECT * 
