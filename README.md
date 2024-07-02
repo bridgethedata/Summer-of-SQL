@@ -1,13 +1,13 @@
 # Summer-of-SQL
 A 12-week SQL Learning Course consisting of these projects:
 
-Week 1 - SQL Murder Mystery
+Week 1 - SQL Murder Mystery (Table Joins, Where Clause, Order By, Limit)
 
-Week 2 - Preppin' Data 2023 Weeks 1-4
+Week 2 - Preppin' Data 2023 Weeks 1-4 (CTEs, Table Joins, Aggregation, Group By, Order By, Limit, Where Clause)
 
-Week 3 - Data with Danny - Foodie Fi Section B
+Week 3 - Data with Danny - Foodie Fi Section B (Table Joins, Aggregation, Group By, Order By, Limit, Where Clause, Is Not Null Function)
 
-Week 4 - Preppin Data 2023 Weeks 5-8
+Week 4 - Preppin Data 2023 Weeks 5-8(Table Joins, Aggregation, Group By, Order By, Limit, Where Clause, Is Not Null Function)
 
 Week 5 - SQL Portfolio Project + Dashboard Build
 
